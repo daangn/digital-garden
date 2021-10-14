@@ -16,7 +16,9 @@
 - [Obsidian](https://obsidian.md/)
 - [Foam](https://foambubble.github.io/)
 
-모든 컨텐츠는 [notes](./notes) 경로에 작성해요. 다른 서브디렉토리를 만들거나 계층구조를 정리하지 마세요.
+## 저작 기여 가이드
+
+See [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 ## Disclaimer
 
