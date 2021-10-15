@@ -4,7 +4,7 @@
 
 - 구현체
   - [[JavaScript]]
-    - [reghex][https://github.com/kitten/reghex]
+    - [reghex](https://github.com/kitten/reghex)
       - Sticky RegExp([[정규표현식]]) 기반
   - OCaml
     - [Angstrom](https://github.com/inhabitedtype/angstrom)
