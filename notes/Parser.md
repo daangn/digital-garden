@@ -8,7 +8,7 @@
   - [[Parser Generator]]
     - 파서 생성기들은 문맥 자유 문법을 입력으로 받아서 문맥 자유 언어에 속하는 문자열을 분석해주는 프로그램을 생성해줍니다.
   - 배커스 나우르 표기법과 기찻길 다이어그램
-    - 문맥 자유 문법은 **배커스 나우르 표기법([[Backus Naur Form]]. 이하 BNF)** 또는 **기찻길 다이어그램([[Railroad Diagram]])**으로 표현할 수 있습니다.
+    - 문맥 자유 문법은 **배커스 나우르 표기법(Backus Naur Form. 이하 [[BNF]])** 또는 **기찻길 다이어그램([[Railroad Diagram]])**으로 표현할 수 있습니다.
 
 - LL(1), LR(1), LALR(1) 등 다양한 [[Algorithm]]이 있음
   - [algorithm - What is the difference between LL and LR parsing? - Stack Overflow](https://stackoverflow.com/questions/5975741/what-is-the-difference-between-ll-and-lr-parsing)
@@ -31,7 +31,7 @@
 [AST]: AST "AST: Abstact Syntax Tree"
 [촘스키 위계]: 촘스키 위계 "촘스키 위계"
 [Parser Generator]: Parser Generator "Parser Generator"
-[Backus Naur Form]: Backus Naur Form "Backus Naur Form"
+[BNF]: BNF "BNF: Backus Naur Form"
 [Railroad Diagram]: Railroad Diagram "Railroad Diagram"
 [Algorithm]: Algorithm "Algorithm"
 [yacc]: Yacc "Yacc"
