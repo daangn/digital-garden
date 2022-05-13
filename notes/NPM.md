@@ -1,3 +1,3 @@
 # NPM
 
-- Node Package Manager, 태생은 [[Node.js]] 용
+- [[NodeJS]] 공식 [[Package Manager]]
